@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: #CD7C42;
+}
+.logo{
+    height:100px;
+    width: 100px;
+} 
+h1 {
+    color: black;
+    text-align: center;
+    top: 20px;
+}
+nav a img{
+    position: absolute;
+    height: 80px;
+    top: 2px;
+    left: 20px;
+}
+table img{
+    width: 329px;
+    height: 350px;
+    box-shadow: 10px 10px 10px 0px #924000;
+}
+td p{
+    font-size: 50px;
+}
+table{
+    top: 100px;
+}
+footer p{
+    border-left: 10px dotted black;
+    font-size: 25px;
+    opacity: 0.5;
+}
+footer p:hover{
+    opacity: 1;
+}
